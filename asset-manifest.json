@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Insta-Clone/static/css/main.c0342897.css",
+    "main.js": "/Insta-Clone/static/js/main.686a51ea.js",
+    "static/js/453.0a2bea3b.chunk.js": "/Insta-Clone/static/js/453.0a2bea3b.chunk.js",
+    "static/media/hl6.png": "/Insta-Clone/static/media/hl6.e9a71e6f5c3e3d8986ee.png",
+    "static/media/hl5.png": "/Insta-Clone/static/media/hl5.ada533c2b52075a7482c.png",
+    "static/media/hl1.png": "/Insta-Clone/static/media/hl1.4e2bd002605b222cd7ce.png",
+    "static/media/hl3.png": "/Insta-Clone/static/media/hl3.3b5b2530ab22339380c6.png",
+    "static/media/hl4.png": "/Insta-Clone/static/media/hl4.65bb18aa4c3c56fc687e.png",
+    "static/media/chandupic.jpg": "/Insta-Clone/static/media/chandupic.30b84562c761a04357b7.jpg",
+    "static/media/jaykarpic.jpg": "/Insta-Clone/static/media/jaykarpic.351a21f6987714dbd463.jpg",
+    "static/media/at.png": "/Insta-Clone/static/media/at.c198368e2f1b46a88c84.png",
+    "static/media/hl2.png": "/Insta-Clone/static/media/hl2.6eb119fffaaa97fe866f.png",
+    "static/media/settings.png": "/Insta-Clone/static/media/settings.0e37f3498415ebb9dd9f.png",
+    "index.html": "/Insta-Clone/index.html",
+    "main.c0342897.css.map": "/Insta-Clone/static/css/main.c0342897.css.map",
+    "main.686a51ea.js.map": "/Insta-Clone/static/js/main.686a51ea.js.map",
+    "453.0a2bea3b.chunk.js.map": "/Insta-Clone/static/js/453.0a2bea3b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0342897.css",
+    "static/js/main.686a51ea.js"
+  ]
+}
