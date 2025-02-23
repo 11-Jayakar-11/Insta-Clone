@@ -1,0 +1,74 @@
+.avatar-box{
+    width: 60px;
+    height: 60px;
+    aspect-ratio: 1/1;
+    background-image: linear-gradient(160deg,#1d1ce5 5%,#ea0a7e,#ffd372);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 8px;
+}
+.avatar-profile-image{
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+    margin: 3px;
+    border: 2px solid white;
+}
+
+.carousel-status{
+    padding: 10px 0px;
+    
+}
+.carousel-body{
+    display: flex;
+    flex-direction:row;
+    overflow-x:scroll;
+    height: 119px;
+    background-color: white;
+    border-radius: 8px;
+    position: relative;
+    scroll-behavior: smooth;
+}
+.carousel-body::-webkit-scrollbar{
+    display: none;
+}
+.avatar-detail{
+    margin-left:20px ;
+    color: black;
+    white-space: nowrap;
+    text-overflow: clip;
+    width: 60px;
+}
+.avatar-name{
+    text-align: center;
+}
+.check{
+    position: relative;
+}
+.arrow-btn{
+    /* width: 50px;
+    height: 50px; */
+    position: absolute;
+  
+    border-radius: 50%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0.8;
+    z-index: 999;
+    cursor: pointer;
+}
+.arrow-btn img{
+    width:10px;
+    height: 10px;
+}
+.left-icon{
+    left: 10px;
+    top:40px;
+}
+.right-icon{
+    right: 10px;
+    top: 40px;
+}

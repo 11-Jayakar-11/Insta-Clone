@@ -1,0 +1,225 @@
+body{
+    margin: 0px;
+  }
+  
+  .jfull-box{
+    margin-left: 13%;
+    height: 98vh;
+    width:84%;
+  }
+  
+  .jprofile-box{
+    margin-left: 13%;
+    margin-right: 13%;
+    width: 74%;
+    height: 59%;
+  }
+  .jprofile-box1{
+  height: 64%;
+  display: flex;
+  }
+  
+  .jprofile-box2{
+    height: 36%;
+    display: flex;
+  }
+  
+  .jhl-box{
+    height: 80%;
+    width: 14%;
+  }
+  
+  .jhl-box div img{
+    border-radius: 50%;
+    width:80px ;
+    height: 80px;
+    margin-left:24px;
+    margin-bottom: 4px;
+    cursor: pointer;
+    border: 2px solid grey;
+  }
+  
+  
+  .jprofile-pic{
+    height: 100%;
+    width: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .jprofile-info{
+    height: 100%;
+    width: 70%;
+  }
+  
+  .jimg{
+    border-radius: 50%;
+    width: 60%;
+  }
+  
+  .jname{
+    display: flex;
+    align-items: center;
+    margin-left: 4%;
+    margin-top: 6%;
+  }
+  
+  .jname span{
+    font-size: 20px;
+    cursor: pointer;
+  }
+  
+  .jname img{
+    width: 3%;
+    margin-left: 5px;
+  }
+  
+  .jname button{
+    border-radius: 2%;
+    background-color: rgb(234, 234, 234);
+    cursor: pointer;
+    border: none;
+    border-radius: 8px;
+    margin-left: 2%;
+    height: 35px;
+    width: 100px;
+    font-weight: 600;
+  }
+  
+  .jname button:hover{
+    background-color: rgb(185, 185, 185);
+  }
+  
+  .jname img{
+    margin-left: 7px;
+    width: 22px;
+    cursor: pointer;
+  }
+  
+  .jrange{
+    margin-left: 4%;
+    margin-top: 3%;
+    display: flex;
+  }
+  
+  .jrange span{
+    margin-right: 5px;
+    font-weight: 600;
+  }
+  
+  .num{
+    margin-left: 7%;
+    cursor: pointer;
+  }
+  
+  .jabout{
+    margin-left: 4%;
+    margin-top: 2%;
+  }
+  
+  .jabout button{
+    border: none;
+    border-radius: 12px;
+    height: 25px;
+    font-size: 12px;
+    cursor: pointer;
+  }
+  
+  .jabout h5{
+    margin-bottom: 8px;
+  }
+  .jabout img{
+    width:13px;
+    margin-top: 2px;
+    margin-right: 4px;
+  }
+  
+  .followers{
+    height: 50%;
+    width: 25%;
+    background-color: rgb(228, 228, 228);
+    position: fixed;
+    top: 200px;
+    left: 590px;
+    border-radius: 15px;
+  }
+  
+  .followers-1{
+    height: 10%;
+    width: 100%;
+    display: flex;
+    border-bottom: 1px solid black;
+  }
+  .followers-1 h4{
+    margin-top:9px ;
+    margin-bottom: 0;
+    margin-left: 38%;
+  }
+  .followers-1 img{
+    width: 17px;
+    height: 17px;
+    margin-left: 27%;
+    margin-top: 3%;
+    cursor: pointer;
+  }
+  
+  .followers-2 input{
+    margin-top: 8px;
+    height: 26px;
+    border: none;
+    border-radius: 5px;
+    width: 90%;
+    margin-left: 14px;
+  }
+
+  
+  .cgrid{
+    margin-top: 30px;
+    margin-right: 29%;
+    margin-left: 24%;
+    display:flex;
+    justify-content: space-evenly;
+  }
+  h6{
+    margin: 0%;
+    text-decoration: none;
+  }
+  .cimges{
+  width:15px;
+  height: 15px;
+  }
+  .cinstagram-grid{
+    margin-right: 13%;
+    margin-left: 13%;
+    
+  }
+  
+  .profilepost2{
+    display:flex;
+    flex-wrap: wrap;
+    width:100%;
+    
+  }
+  .cposters{
+    width:31%;
+    margin:2px;
+  }
+  .cpost{
+    width:72%;
+    height: 670px;
+    position: fixed;
+    bottom: 20px;
+    left: 15%;
+    
+    background-color: rgb(20, 20, 19);
+  }
+  .cpostimage{
+    width:100%;
+    height:100%;
+  }
+  .cpost10{
+    width: 50%;
+    height: 100%;
+    background-color: white;
+  }

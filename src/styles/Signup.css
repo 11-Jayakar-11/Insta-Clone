@@ -1,0 +1,172 @@
+
+.signup{
+  color: rgb(var(--ig-primary-text));
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: center;
+  margin-top: 12px;
+  max-width: 350px;
+
+}
+.title{
+  width: 180px;
+  height: 100px;
+  margin-top: 30px;
+  
+}
+.first-container{
+  border: 2px solid rgba(214, 214,214,0.728);
+  width: 22rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 1rem;
+}
+.fb{
+  width: 1rem;
+ margin-right:3px ;
+ margin-top: -10px;
+}
+
+.inpt{
+  padding: .6rem;
+  width: 16.8rem;
+  margin-bottom: 1rem;
+  outline: 1.2px solid rgba(214, 214,214,0.728);
+  border: none;
+  background-color: rgba(233,233, 233, 0.293);
+  height: 33px;
+  font-size: .8rem;
+}
+.loginbtn{
+  background-color: rgb(75,153,255);
+  border: none;
+  width: 16.8rem;
+  padding: 3px;
+  font-size: .9rem;
+  color: white;
+  font-weight: bold;
+  border-radius: .4rem;
+  height: 33px;
+  
+}
+.or{
+  color: rgb(78, 77,77);
+  font-size: .8rem;
+  margin-top: 15px;
+}.facebook{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: -10px;
+  
+}
+.logf{
+  font-size: .9rem;
+  color: rgb(2,0,112);
+  margin-bottom: 8px;
+ 
+}
+.pass{
+  font-size: .7rem;
+  color: rgb(2,0,112);
+  margin-top: 15px;
+  
+}
+.second-container{
+  border: 2px solid rgba(214, 214,214,0.728);
+  width: 22rem;
+  display: flex;
+  margin-top: .5rem;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: .8rem;
+  font-size: .9rem;
+  
+  padding: .5rem 0rem;
+  height: 70px;
+}
+Link{
+  color: rgb(12,125,255);
+  font-weight: bold;
+  cursor: pointer;
+}
+.third-container{
+  
+  width: 22rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  
+}
+.app{
+  width: 8rem;
+  height: 2.7rem;
+}
+.appone{
+  margin-right: .6rem;
+}
+.fourth-container{
+  display: flex;
+  align-items: center;
+  width: 22rem;
+  justify-content: center;
+}
+.page{
+width: 100%;
+height: auto;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.pageone{
+
+margin-top: 55px;
+}
+.front{
+  width: 450px;
+  height: 581px;
+  margin-top: 50px;
+}
+.frontins{
+  width: 450px;
+  height: 650px;
+  margin-top: 0%;
+}
+.friends{
+  margin-bottom: 0%;
+}
+.finbutton{
+  width: 1rem;
+  margin-right:3px ;
+  
+}
+.textp{
+  text-align: center;
+  font-size: .7rem;
+  width: 300px;
+  color: rgb(78, 77,77);
+}
+.footer1{
+  align-items: center;
+  justify-content: center;
+  margin-left: 25%;
+  
+}
+.ftext{
+  margin-right: 12px;
+  text-decoration: none;
+  font-size: .7rem;
+  color:rgb(78, 77,77); ;
+}
+.footer2{
+  height: 30px;
+  align-items: center;
+  justify-content: center;
+  margin-left: 45%;
+  
+  
+}
